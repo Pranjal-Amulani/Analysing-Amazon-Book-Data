@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 20 16:39:14 2025
-
-@author: hp
-"""
-
 import pandas as pd
 
 df = pd.read_csv(r"C:\Users\hp\.spyder-py3\bestsellers with categories.csv")
